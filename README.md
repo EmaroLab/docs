@@ -1,5 +1,5 @@
 # Docs
-<img src="https://github.com/EmaroLab/docs/tree/master/img/emarolab-logo/emaroLab_oneline.png" height="40">
+<img src="https://github.com/EmaroLab/docs/blob/master/img/emarolab-logo/emaroLab_oneline.png" height="40">
 
 ## Synopsis
 
