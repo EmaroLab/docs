@@ -8,7 +8,7 @@ TODO: Describe the installation process and required dependencies with software 
 
 ## Usage
 
-TODO: Write usage instructions with input/output mechanism specification (e.g. topics if ROS package) and *possibly* a working example.
+TODO: Write usage instructions with input/output mechanism specification (e.g. topics if ROS package) and *possibly* a minimal working example.
 
 ## Contributing instructions
 
